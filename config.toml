@@ -1,0 +1,21 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'DWES'
+theme='learn'
+
+
+[params]
+themeVariant="mio"
+hide = true
+
+[outputs]
+home=['HTML','JSON','RSS']
+
+
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-php'></i> Página de php"
+identifier = "a1"
+url = "https://php.net"
+weight = 10
+
