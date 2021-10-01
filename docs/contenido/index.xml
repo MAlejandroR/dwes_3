@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contenido on DWES</title>
+    <link>https://malejandror.github.io/dwes_3/contenido/</link>
+    <description>Recent content in Contenido on DWES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Sep 2021 17:28:45 +0200</lastBuildDate><atom:link href="https://malejandror.github.io/dwes_3/contenido/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tema1</title>
+      <link>https://malejandror.github.io/dwes_3/contenido/tema1/</link>
+      <pubDate>Tue, 28 Sep 2021 17:28:52 +0200</pubDate>
+      
+      <guid>https://malejandror.github.io/dwes_3/contenido/tema1/</guid>
+      <description>Chapter 1 Some Chapter title Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Tema2</title>
+      <link>https://malejandror.github.io/dwes_3/contenido/tema2/</link>
+      <pubDate>Tue, 28 Sep 2021 17:28:55 +0200</pubDate>
+      
+      <guid>https://malejandror.github.io/dwes_3/contenido/tema2/</guid>
+      <description>Chapter X Some Chapter title Lorem Ipsum. pero no debería</description>
+    </item>
+    
+    <item>
+      <title>Descargas</title>
+      <link>https://malejandror.github.io/dwes_3/contenido/descargas/</link>
+      <pubDate>Thu, 30 Sep 2021 17:09:43 +0200</pubDate>
+      
+      <guid>https://malejandror.github.io/dwes_3/contenido/descargas/</guid>
+      <description>Ficheros para descargar   Descarga estos ficheros de ejemplo   horario copy.pdf  (19 kb)   horario.pdf  (19 kb)   horario1copy copy.pdf  (19 kb)   horario1copy.pdf  (19 kb)    </description>
+    </item>
+    
+  </channel>
+</rss>
